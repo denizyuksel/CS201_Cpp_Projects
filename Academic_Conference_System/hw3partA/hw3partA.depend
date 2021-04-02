@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524569559 source:d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3parta\simpleacs.cpp
+	<iostream>
+	"SimpleACS.h"
+	<algorithm>
+
+1524566490 d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3parta\simpleacs.h
+	<string>
+	"SimpleTrack.h"
+
+1524310547 d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3parta\simpletrack.h
+	<string>
+
+1524311277 source:d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3parta\simpletrack.cpp
+	<iostream>
+	"SimpleTrack.h"
+
+1524569573 source:d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3parta\test.cpp
+	<iostream>
+	"SimpleACS.h"
+

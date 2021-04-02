@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1524585082 source:d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3partb\hw3partb\author.cpp
+	<iostream>
+	"Author.h"
+
+1524570095 d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3partb\hw3partb\author.h
+	<string>
+
+1524936127 source:d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3partb\hw3partb\paper.cpp
+	<iostream>
+	<string>
+	"Paper.h"
+
+1524913222 d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3partb\hw3partb\paper.h
+	<string>
+	"Author.h"
+
+1524935905 source:d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3partb\hw3partb\track.cpp
+	<string>
+	"Track.h"
+	<algorithm>
+	<iostream>
+
+1524935841 d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3partb\hw3partb\track.h
+	<string>
+	"Paper.h"
+
+1524935887 source:d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3partb\hw3partb\acs.cpp
+	<string>
+	<iostream>
+	"ACS.h"
+	<algorithm>
+
+1524906110 d:\deniz\deniz Önemli\courses\cs\cs-201\hw3\spring  2018\hw3partb\hw3partb\acs.h
+	<string>
+	"Track.h"
+
